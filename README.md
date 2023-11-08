@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Wang</h1>
-<h3 align="center">A postgraduate student at BUPT,focus on robotics and RL.</h3>
+<h3 align="center">A postgraduate student at BUPT, focus on robotics and RL.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=buptmary&label=Profile%20views&color=brightgreen&style=flat" alt="buptmary" />
