@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buptmary&label=Profile%20views&color=0e75b6&style=flat" alt="buptmary" /> </p>
 
-- 🌱 I’m currently learning **Golang and C++ **
+- 🌱 I’m currently learning **Golang and C++**
 
 - ⚡ I‘m interested in **programming and embedded development!**
 
