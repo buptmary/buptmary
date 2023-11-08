@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mary Wang</h1>
 <h3 align="center">A postgraduate student at BUPT,focus on robotics and RL.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buptmary&label=Profile%20views&color=0e75b6&style=flat" alt="buptmary" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=buptmary&label=Profile%20views&color=brightgreen&style=flat" alt="buptmary" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fbuptmary" alt="buptmary" />
+ <img src="https://img.shields.io/github/followers/buptmary?color=brightgreen" alt="buptmary" />
+</p>
 
 - 🌱 I’m currently learning **Golang and C++**
 
