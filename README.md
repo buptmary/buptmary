@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/buptmary)
 
-- 📫 How to reach me **25679*****@qq.com**
+- 📫 How to reach me **25679\*\*\*\*\*@qq.com**
 
 
 
